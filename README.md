@@ -4,6 +4,8 @@
 
 This study presents a **spatiotemporal deep learning framework** for daily rainfall prediction based on a **ConvLSTM encoder with a spatial convolutional decoder**. The model is designed to leverage **7-day antecedent atmospheric conditions** to predict gridded precipitation fields over the study domain, with particular emphasis on **monsoon rainfall dynamics and extreme events**.
 
+<img width="1391" height="615" alt="image" src="https://github.com/user-attachments/assets/1f55a1ed-1f6a-46c7-83b4-dd506ddde49c" />
+
 ---
 
 ## 2. Model Architecture
