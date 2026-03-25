@@ -8,7 +8,11 @@ This study presents a **spatiotemporal deep learning framework** for daily rainf
 
 ---
 
-## 2. Model Architecture
+## 2. Data and  Model Architecture
+
+**Data**: ECMWF Reanalysis v5 (ERA5)
+**Link**: https://www.ecmwf.int/en/forecasts/dataset/ecmwf-reanalysis-v5
+**Data Description**: ERA5 is the fifth generation ECMWF atmospheric reanalysis of the global climate covering the period from January 1940 to present. ERA5 is produced by the Copernicus Climate Change Service (C3S) at ECMWF
 
 ### 🔧 Input Configuration
 - **Temporal context**: 7-day input sequence  
